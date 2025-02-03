@@ -29,5 +29,6 @@ or
 Noisy intermediate-scale quantum algorithm for semidefinite programming, K Bharti, T Haug, V Vedral, LC Kwek, Physical Review A 105 (5), 052445
 (this also features additional algorithms to find ground state of Hamiltonians, excited states, symmetry constrained problems and state discrimination problems)
 
+NOTE: Requires older version of qutip, namely <=4.7.5, install via "pip install qutip==4.7.5"
 
 @author: Tobias Haug, tobias.haug@u.nus.edu
